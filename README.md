@@ -1,6 +1,7 @@
 # sql-practise
 This is a topic-wise collection of Sql Queries in a python notebook format, along with the seed data.
 
+User Azure Data Studio or Databricks equivalent notebooks that support SQL Cells
 
 ## Getting Started
 
